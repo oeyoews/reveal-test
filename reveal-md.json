@@ -11,7 +11,5 @@
   "staticDir": "docs",
   "staticDirs": [
     "slides/images"
-  ],
-  "separator": "^\n\n\n",
-  "verticalSeparator": "^\n\n"
+  ]
 }
