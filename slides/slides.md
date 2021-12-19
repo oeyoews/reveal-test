@@ -1,5 +1,6 @@
 ## chapter 01
 - add some package.json command
+- ==>
 ---
 
 ## chapter 02
@@ -17,3 +18,7 @@
 
 ## canvets
 - add token and to your repository secrect
+
+```git
+git clone xxx.git
+```

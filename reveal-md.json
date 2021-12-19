@@ -1,5 +1,8 @@
 {
   "assetsDir": "assets",
+  "css": [
+    "slides/onedark.css"
+  ],
   "highlightTheme": "atom-one-dark",
   "port": "3000",
   "revealOptions": {
@@ -9,7 +12,6 @@
   "staticDirs": [
     "slides/images"
   ],
-  "css": [
-    "slides/onedark.css"
-  ]
+  "separator": "^\n\n\n",
+  "verticalSeparator": "^\n\n"
 }

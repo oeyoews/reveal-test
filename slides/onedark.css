@@ -1,6 +1,6 @@
-/*@import '../node_modules/@fontsource/jetbrains-mono/500.css';*/
-/*@import '../node_modules/@fontsource/jetbrains-mono/500-italic.css';*/
-/*@import '../node_modules/@fontsource/inter/latin.css';*/
+@import '../node_modules/@fontsource/jetbrains-mono/500.css';
+@import '../node_modules/@fontsource/jetbrains-mono/500-italic.css';
+@import '../node_modules/@fontsource/inter/latin.css';
 
 :root {
   --font: 'Inter', -apple-system, system-ui, sans-serif;
