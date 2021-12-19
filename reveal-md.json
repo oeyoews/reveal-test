@@ -8,5 +8,8 @@
   "staticDir": "docs",
   "staticDirs": [
     "slides/images"
+  ],
+  "css": [
+    "slides/onedark.css"
   ]
 }
