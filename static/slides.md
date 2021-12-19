@@ -7,7 +7,7 @@
 
 ## one
 
-![demo](demo.png)
+![demo](images/demo.png)
 
 ---
 
