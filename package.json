@@ -1,4 +1,6 @@
 {
+  "main": "index.js",
+  "repository": "git@ghp:vanillaf/reveal-test.git",
   "devDependencies": {
     "reveal-md": "^5.3.1"
   },
