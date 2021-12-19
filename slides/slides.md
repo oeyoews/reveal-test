@@ -1,41 +1,19 @@
-## demo
-
-- demo
-- demo
-
+## chapter 01
+- add some package.json command
 ---
 
-## one
-
-![demo](images/demo.png)
+## chapter 02
+- ![demo](images/demo.png)
 
 ---
 
-demo
-## one
-> demo
----
-## one
-
----
-- [ ] demo
-## one
-- demo
-- [ ] demo
-## one
----
-## one
-
+## Introd
+- directory should correct absoulty
 ---
 
+## bugs
+- github actions
+---
 
----
-## one
-## one
----
-## one
----
-## one
-## one
----
-## one
+## canvets
+- add token and to your repository secrect
