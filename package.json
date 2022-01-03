@@ -9,6 +9,6 @@
     "docs:build": "reveal-md slides/*.md --static"
   },
   "dependencies": {
-    "reveal-md": "^5.3.0"
+    "reveal-md": "^5.2.0"
   }
 }
