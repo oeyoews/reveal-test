@@ -21,7 +21,7 @@ jobs:
             **/node_modules
           key: ${{ runner.os }}-${{ hashFiles('**/package.json') }}
       - name: Install Dependency
-        run: yarn install && reveal-md --version
+        run: yarn install
       - name: Build
         run: yarn docs:build
 
