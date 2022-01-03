@@ -3,13 +3,13 @@
   "devDependencies": {
     "@fontsource/inter": "^4.5.0",
     "@fontsource/jetbrains-mono": "^4.5.0",
-    "reveal-md": "5.2.0"
+    "reveal-md": "5.3.0"
   },
   "scripts": {
     "dev": "reveal-md slides/*.md -w",
     "docs:build": "reveal-md slides/*.md --static"
   },
   "dependencies": {
-    "reveal-md": "5.2.0"
+    "reveal-md": "5.3.0"
   }
 }
