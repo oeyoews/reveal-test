@@ -1134,7 +1134,7 @@ responselike@^1.0.2:
     lowercase-keys "^1.0.0"
 
 reveal-md@^5.2.0:
-  version "5.3.1"
+  version "5.2.0"
   resolved "https://registry.npmmirror.com/reveal-md/download/reveal-md-5.3.1.tgz#429e42ac04c6add79ad7341dc908964eb281ea9f"
   integrity sha512-nh2hjnCwshHNbARfbgdIJq1JHiDuYZDqFGKP7Y/t1/nEb6z2k8XakfUq7Yf+Ew5DC6enBxjYxosUjwZpdg/mpw==
   dependencies:
